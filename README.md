@@ -127,7 +127,7 @@ CTF / Problem Solving  ██████████████░░░░░
 | Attempt | Event | Year | Result |
 |:---:|:---|:---:|:---:|
 | 1st Hackathon | CTF Hackathon | 2025 | 3rd Place 🥉 |
-| 2nd Hackathon | CTF Hackathon | 2025 | 4th Place 🎖️ |
+| 2nd Hackathon | REPLACE_ME — hackathon name | REPLACE_ME — e.g. 2025 | 4th Place 🎖️ |
 
 <sub>✏️ To add another hackathon, edit `certificates.json` and push.</sub>
 <!--HACK:END-->
@@ -225,6 +225,6 @@ Let's build something secure together.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,100:0A0E27&height=140&section=footer" width="100%"/>
+<img src="assets/circuit-divider.svg" width="100%"/>
 
 <div align="center"><sub>© 2026 Rethish S — root access granted to visitors who scroll this far. 🔓</sub></div>
