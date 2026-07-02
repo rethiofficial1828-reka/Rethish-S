@@ -1,29 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:2C5364,100:2EE6A6&height=260&section=header&text=RETHISH%20S&fontSize=70&fontColor=00FF9C&fontAlignY=35&animation=twinkling&desc=%3E%20whoami%20::%20Cybersecurity%20Learner%20%7C%20Ethical%20Hacking%20Track%20%7C%20Blue-Team%20in%20Training&descAlignY=58&descSize=17&descColor=D6FFF2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:14213D,100:0F4C81&height=260&section=header&text=RETHISH%20S&fontSize=68&fontColor=4FD1FF&fontAlignY=35&animation=fadeIn&desc=%3E%20whoami%20::%20Cybersecurity%20Learner%20%7C%20Ethical%20Hacking%20Track%20%7C%20Blue-Team%20in%20Training&descAlignY=58&descSize=16&descColor=CBD5E1" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=700&color=00FF9C&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=root%40rethish%3A~%24+scanning_systems...;%5B%2B%5D+Learning+Network+Security;%5B%2B%5D+Automating+with+Python;%5B%2B%5D+3rd+Place+%40+CTF+Hackathon+%F0%9F%8F%86;%5B%2B%5D+Status%3A+Always+Online" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=4FD1FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=root%40rethish%3A~%24+scanning_systems...;%5B%2B%5D+Learning+Network+Security;%5B%2B%5D+Automating+with+Python;%5B%2B%5D+2x+Hackathon+Finisher+%F0%9F%8F%86;%5B%2B%5D+Status%3A+Always+Online" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/rethish-s-25a377372" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/rethishsugu28" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rethish-s-25a377372" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/rethishsugu28" target="_blank"><img src="https://img.shields.io/badge/X-0A0E27?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="mailto:rethiofficial1828@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://rethiofficial1828-reka.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+<a href="https://rethiofficial1828-reka.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4FD1FF?style=for-the-badge&logo=googlechrome&logoColor=0A0E27" /></a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rethiofficial1828-reka&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/rethiofficial1828-reka?style=for-the-badge&color=2EE6A6&labelColor=0F2027)
-![Status](https://img.shields.io/badge/STATUS-ACTIVELY%20LEARNING-00FF9C?style=for-the-badge&labelColor=0F2027)
+![Profile Views](https://komarev.com/ghpvc/?username=rethiofficial1828-reka&color=4FD1FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/rethiofficial1828-reka?style=for-the-badge&color=0F4C81&labelColor=0A0E27)
+![Status](https://img.shields.io/badge/STATUS-ACTIVELY%20LEARNING-4FD1FF?style=for-the-badge&labelColor=0A0E27)
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/hacker.gif" width="450" alt="hacker terminal animation"/>
-</div>
 
 ## 🧠 `/etc/about_me`
 
@@ -36,7 +32,7 @@ $ cat about_rethish.txt
 │ Focus       : Security Fundamentals · Network Analysis · Automation
 │ Learning    : Network Security, Python Automation, Linux Hardening
 │ Open To     : Internships · Junior Roles · Collabs · Mentorship
-│ Achievement : 🏆 3rd Place — CTF Hackathon
+│ Achievements: 🏆 2x Hackathon Finisher (3rd & 4th Place)
 │ Mindset     : 24/7 Curious. Always Building. Never Idle.
 └─────────────────────────────────────────────────────
 
@@ -45,9 +41,9 @@ $ _
 
 <div align="center">
 
-| 🎯 Focus Areas | 📅 Journey Started | 🏆 CTF Result | ⏱️ Mindset |
+| 🎯 Focus Areas | 📅 Journey Started | 🏆 Hackathons | ⏱️ Mindset |
 |:---:|:---:|:---:|:---:|
-| 3+ | 2024 | 3rd Place 🥉 | 24/7 |
+| 3+ | 2024 | 2 Completed | 24/7 |
 
 </div>
 
@@ -96,40 +92,60 @@ Python + Linux-based workflows for repeatable tasks, lab exercises, and problem 
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Information_Security-00FF9C?style=for-the-badge&labelColor=0F2027" />
-<img src="https://img.shields.io/badge/Network_Analysis-00FF9C?style=for-the-badge&labelColor=0F2027" />
-<img src="https://img.shields.io/badge/Penetration_Testing_Basics-00FF9C?style=for-the-badge&labelColor=0F2027" />
+<img src="https://img.shields.io/badge/Information_Security-4FD1FF?style=for-the-badge&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/Network_Analysis-4FD1FF?style=for-the-badge&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/Penetration_Testing_Basics-4FD1FF?style=for-the-badge&labelColor=0A0E27" />
 <br/>
-<img src="https://img.shields.io/badge/C_Programming-2EE6A6?style=for-the-badge&labelColor=0F2027" />
-<img src="https://img.shields.io/badge/Python_Scripting-2EE6A6?style=for-the-badge&labelColor=0F2027" />
-<img src="https://img.shields.io/badge/CTF_%2F_Capture_The_Flag-2EE6A6?style=for-the-badge&labelColor=0F2027" />
+<img src="https://img.shields.io/badge/C_Programming-0F4C81?style=for-the-badge&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/Python_Scripting-0F4C81?style=for-the-badge&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/CTF_%2F_Capture_The_Flag-0F4C81?style=for-the-badge&labelColor=0A0E27" />
 
 </div>
 
 ### Skill Confidence
 
 ```text
-C Programming      ████████████████░░░░  80%
-Python              ███████████████░░░░░  75%
-Linux / Bash         ██████████████░░░░░░  70%
-Networking Basics    ████████████░░░░░░░░  60%
-Security Concepts    █████████████░░░░░░░  65%
-CTF / Problem Solving ██████████████░░░░░  72%
+C Programming        ████████████████░░░░  80%
+Python                ███████████████░░░░░  75%
+Linux / Bash           ██████████████░░░░░░  70%
+Networking Basics      ████████████░░░░░░░░  60%
+Security Concepts      █████████████░░░░░░░  65%
+CTF / Problem Solving   ██████████████░░░░░  72%
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 🏆 `/achievements_and_certifications`
+## 🏆 `/achievements`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🥉_3rd_Place-CTF_Hackathon-FFD700?style=for-the-badge&labelColor=0F2027" />
+<img src="https://img.shields.io/badge/🏆_2x_Hackathon_Finisher-4FD1FF?style=for-the-badge&labelColor=0A0E27" />
 
+<br/><br/>
+
+<!--HACK:START-->
+| Attempt | Event | Year | Result |
+|:---:|:---|:---:|:---:|
+| 1st Hackathon | CTF Hackathon | 2025 | 3rd Place 🥉 |
+| 2nd Hackathon | REPLACE_ME — hackathon name | REPLACE_ME — e.g. 2025 | 4th Place 🎖️ |
+
+<sub>✏️ To add another hackathon, edit `certificates.json` and push.</sub>
+<!--HACK:END-->
+
+</div>
+
+## 📜 `/certifications`
+
+<div align="center">
+
+<!--CERTS:START-->
 | Year | Certification | Issued By |
 |:---:|:---|:---|
 | 2024 | 💻 C Programming Certification | Online Platform |
 | 2024 | 🐍 Python Programming Certification | Online Platform |
-| 2025 | 🥉 CTF Hackathon — 3rd Place | Hackathon Event |
+
+<sub>✏️ To add a certificate, edit `certificates.json` and push — this table rebuilds automatically.</sub>
+<!--CERTS:END-->
 
 </div>
 
@@ -137,29 +153,24 @@ CTF / Problem Solving ██████████████░░░░░ 
 
 ## 📦 `/repositories`
 
+<!--REPOS:START-->
 ### 🌐 Public Repositories
 
-<div align="center">
-
-<a href="https://github.com/rethiofficial1828-reka?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rethiofficial1828-reka&repo=Portfolio&theme=radical&hide_border=true" />
-</a>
-
-<br/>
-<sub>📌 Pin your other public repos by replacing <code>repo=Portfolio</code> above with each repo name (add one card per repo).</sub>
-
-</div>
+| Repository | Language | Source |
+|:---|:---:|:---:|
+| **Portfolio** | HTML | [View Code](https://github.com/rethiofficial1828-reka/Portfolio) |
+| **sports-fest** | TypeScript | [View Code](https://github.com/rethiofficial1828-reka/sports-fest) |
+| **Final-Polish-Documentation-Demo** | JavaScript | [View Code](https://github.com/rethiofficial1828-reka/Final-Polish-Documentation-Demo) |
+| **Rethish-S** | — | [View Code](https://github.com/rethiofficial1828-reka/Rethish-S) |
 
 ### 🔒 Private Repositories
 
-<div align="center">
+> Private repos aren't visible to a logged-out page view, so none are listed here yet — once
+> you activate the GitHub Action (Setup step 1), it authenticates as you and will list any
+> private repo names automatically (content stays hidden, name only).
 
-<img src="https://img.shields.io/badge/Private_Repos-🔒_XX-333333?style=for-the-badge&labelColor=0F2027" />
-
-<br/>
-<sub>Private repo contents stay private — this is just a count badge. Replace <code>XX</code> with your actual number, or leave it as-is if you'd rather not disclose a count.</sub>
-
-</div>
+<sub>🔄 Snapshot pulled from your public GitHub page on 2026-07-02. Once the Action (below) is activated, this section rewrites itself automatically and stays current — no manual edits needed.</sub>
+<!--REPOS:END-->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -167,16 +178,18 @@ CTF / Problem Solving ██████████████░░░░░ 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rethiofficial1828-reka&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rethiofficial1828-reka&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rethiofficial1828-reka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rethiofficial1828-reka&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rethiofficial1828-reka&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rethiofficial1828-reka&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rethiofficial1828-reka&theme=redical&hide_border=true" alt="Activity Graph" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rethiofficial1828-reka&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=rethiofficial1828-reka&theme=radical&no-frame=true&row=1&margin-w=15&column=7" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=rethiofficial1828-reka&theme=tokyonight&no-frame=true&row=1&margin-w=15&column=7" alt="Trophies" />
 
 </div>
+
+<sub align="center">These cards pull live data straight from the GitHub API on every page load — no manual updates needed, ever.</sub>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -186,7 +199,7 @@ CTF / Problem Solving ██████████████░░░░░ 
 
 <img src="https://raw.githubusercontent.com/rethiofficial1828-reka/rethiofficial1828-reka/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%"/>
 
-<sub>⚠️ Needs a one-time GitHub Action in your profile repo — ask and I'll write the workflow file.</sub>
+<sub>⚠️ Needs a one-time GitHub Action in your profile repo — see Setup step 4 below.</sub>
 
 </div>
 
@@ -202,12 +215,32 @@ Open to internships, junior roles, collabs, and mentorship.
 Let's build something secure together.
 ```
 
-<a href="mailto:rethiofficial1828@gmail.com"><img src="https://img.shields.io/badge/Get_In_Touch-00FF9C?style=for-the-badge&logo=maildotru&logoColor=black" /></a>
-<a href="https://www.linkedin.com/in/rethish-s-25a377372"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/rethishsugu28"><img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="mailto:rethiofficial1828@gmail.com"><img src="https://img.shields.io/badge/Get_In_Touch-4FD1FF?style=for-the-badge&logo=maildotru&logoColor=0A0E27" /></a>
+<a href="https://www.linkedin.com/in/rethish-s-25a377372"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/rethishsugu28"><img src="https://img.shields.io/badge/Follow_on_X-0A0E27?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2EE6A6,100:0F2027&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,100:0A0E27&height=140&section=footer" width="100%"/>
 
 <div align="center"><sub>© 2026 Rethish S — root access granted to visitors who scroll this far. 🔓</sub></div>
+
+---
+
+## ⚙️ Setup — making the automation live
+
+This repo ships with everything wired up, but three one-time steps activate the "auto" part:
+
+1. **Create a Personal Access Token (PAT)** so the workflow can read your private repos (the default token GitHub gives Actions can only see the repo it runs in, not your whole account):
+   - GitHub → Settings → Developer settings → Personal access tokens → Fine-grained tokens → generate one with **read access to repository metadata** for all your repos (or a classic token with `repo` scope).
+   - In **this** repo: Settings → Secrets and variables → Actions → New repository secret → name it `PROFILE_README_PAT` → paste the token.
+
+2. **Push this repo as your GitHub profile README** — it must live in a repo named exactly `rethiofficial1828-reka/rethiofficial1828-reka` (a repo with the same name as your username) for GitHub to show it on your profile page.
+
+3. **Let the workflow run once** — go to the Actions tab → "Auto-update README" → Run workflow. From then on it re-runs daily and on every push to `certificates.json`, rewriting the repos/certs/hackathons tables automatically.
+
+4. **(Optional) Snake animation** — add the [platane/snk](https://github.com/Platane/snk) action to get the animated contribution snake shown above; ask if you want that workflow file added too.
+
+**To update your data going forward:** just edit `certificates.json` (certificates or hackathons) and commit — no need to touch `README.md` by hand. Repo listings update themselves automatically since they're pulled live from the GitHub API.
+
+**On the "3D / smooth scroll" request:** GitHub strips all CSS and JavaScript from rendered READMEs, so true 3D transforms and scroll animations can't run there — that's a limitation of GitHub's Markdown renderer, not of what I can build. Everything above is the closest achievable equivalent within those constraints (animated SVG banners, typing effects, live data cards). If you want actual 3D/scroll-animated visuals, that belongs on your portfolio *website* (which is plain HTML/CSS/JS) — happy to build that version instead if you want it.
