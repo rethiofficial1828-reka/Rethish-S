@@ -19,7 +19,7 @@
 
 </div>
 
-<img src="assets/circuit-divider.svg" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:14213D,100:0F4C81&height=6&width=1400" width="100%">
 
 ## 🧠 `/etc/about_me`
 
@@ -47,7 +47,7 @@ $ _
 
 </div>
 
-<img src="assets/circuit-divider.svg" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:14213D,100:0F4C81&height=6&width=1400" width="100%">
 
 ## 🎯 `/domains_of_focus`
 
@@ -82,7 +82,7 @@ Python + Linux-based workflows for repeatable tasks, lab exercises, and problem 
 </table>
 </div>
 
-<img src="assets/circuit-divider.svg" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:14213D,100:0F4C81&height=6&width=1400" width="100%">
 
 ## 🛠️ `/tech_stack`
 
@@ -113,7 +113,7 @@ Security Concepts      █████████████░░░░░░
 CTF / Problem Solving  ██████████████░░░░░░  72%
 ```
 
-<img src="assets/circuit-divider.svg" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:14213D,100:0F4C81&height=6&width=1400" width="100%">
 
 ## 🏆 `/achievements`
 
@@ -149,7 +149,7 @@ CTF / Problem Solving  ██████████████░░░░░
 
 </div>
 
-<img src="assets/circuit-divider.svg" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:14213D,100:0F4C81&height=6&width=1400" width="100%">
 
 ## 📦 `/repositories`
 
@@ -172,7 +172,7 @@ CTF / Problem Solving  ██████████████░░░░░
 <sub>🔄 Snapshot pulled from your public GitHub page on 2026-07-02. Once the Action (below) is activated, this section rewrites itself automatically and stays current — no manual edits needed.</sub>
 <!--REPOS:END-->
 
-<img src="assets/circuit-divider.svg" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:14213D,100:0F4C81&height=6&width=1400" width="100%">
 
 ## 📊 `/github_stats`
 
@@ -191,19 +191,17 @@ CTF / Problem Solving  ██████████████░░░░░
 
 <sub align="center">These cards pull live data straight from the GitHub API on every page load — no manual updates needed, ever.</sub>
 
-<img src="assets/circuit-divider.svg" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:14213D,100:0F4C81&height=6&width=1400" width="100%">
 
 ## 🐍 `/contribution_snake`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rethiofficial1828-reka/rethiofficial1828-reka/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%"/>
-
-<sub>⚠️ Needs a one-time GitHub Action in your profile repo — see Setup step 4 below.</sub>
+<sub>⚠️ Not active yet — this section will show an animated snake here automatically once you complete Setup step 4 below (adding the <code>platane/snk</code> Action). Until then it's hidden so no broken image shows.</sub>
 
 </div>
 
-<img src="assets/circuit-divider.svg" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:14213D,100:0F4C81&height=6&width=1400" width="100%">
 
 ## 🤝 `/connect`
 
@@ -225,6 +223,6 @@ Let's build something secure together.
 
 </div>
 
-<img src="assets/circuit-divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F4C81,100:0A0E27&height=6&width=1400" width="100%"/>
 
 <div align="center"><sub>© 2026 Rethish S — root access granted to visitors who scroll this far. 🔓</sub></div>
