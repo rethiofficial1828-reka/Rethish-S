@@ -127,7 +127,7 @@ CTF / Problem Solving  ██████████████░░░░░
 | Attempt | Event | Year | Result |
 |:---:|:---|:---:|:---:|
 | 1st Hackathon | CTF Hackathon | 2025 | 3rd Place 🥉 |
-| 2nd Hackathon | REPLACE_ME — hackathon name | REPLACE_ME — e.g. 2025 | 4th Place 🎖️ |
+| 2nd Hackathon | CTF Hackathon | 2025 | 4th Place 🎖️ |
 
 <sub>✏️ To add another hackathon, edit `certificates.json` and push.</sub>
 <!--HACK:END-->
