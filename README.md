@@ -1,80 +1,83 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EE6A6,100:0077B5&height=220&section=header&text=Hi%20There,%20I'm%20Rethish%20S%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Learner%20%7C%20Ethical%20Hacking%20Track%20%7C%20Blue-Team%20in%20the%20Making&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:2C5364,100:2EE6A6&height=260&section=header&text=RETHISH%20S&fontSize=70&fontColor=00FF9C&fontAlignY=35&animation=twinkling&desc=%3E%20whoami%20::%20Cybersecurity%20Learner%20%7C%20Ethical%20Hacking%20Track%20%7C%20Blue-Team%20in%20Training&descAlignY=58&descSize=17&descColor=D6FFF2" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2EE6A6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Building+practical+security+skills+%F0%9F%94%90;Python+Automation+%2B+Lab-based+Testing+%F0%9F%90%8D;Blue-Team+%7C+Security+Analyst+in+the+making+%F0%9F%9B%A1%EF%B8%8F;Always+learning%2C+always+building+%E2%9A%A1" alt="Typing SVG" />
-
-<a href="https://www.linkedin.com/in/rethish-s-25a377372" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://x.com/rethishsugu28" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="mailto:rethiofficial1828@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://rethiofficial1828-reka.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-2EE6A6?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=700&color=00FF9C&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=root%40rethish%3A~%24+scanning_systems...;%5B%2B%5D+Learning+Network+Security;%5B%2B%5D+Automating+with+Python;%5B%2B%5D+3rd+Place+%40+CTF+Hackathon+%F0%9F%8F%86;%5B%2B%5D+Status%3A+Always+Online" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rethiofficial1828-reka&color=2EE6A6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/rethiofficial1828-reka?style=for-the-badge&color=0077B5&labelColor=black)
+<a href="https://www.linkedin.com/in/rethish-s-25a377372" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/rethishsugu28" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="mailto:rethiofficial1828@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://rethiofficial1828-reka.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=rethiofficial1828-reka&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/rethiofficial1828-reka?style=for-the-badge&color=2EE6A6&labelColor=0F2027)
+![Status](https://img.shields.io/badge/STATUS-ACTIVELY%20LEARNING-00FF9C?style=for-the-badge&labelColor=0F2027)
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 🧭 About Me
+<div align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/hacker.gif" width="450" alt="hacker terminal animation"/>
+</div>
 
-```yaml
-name: Rethish S
-role: Cybersecurity Enthusiast / Ethical Hacking Track
-focus: [Security Fundamentals, Network Analysis, Automation & Labs]
-currently_learning: Network Security, Python Automation, Linux Hardening
-open_to: [Internships, Junior Roles, Collaboration, Mentorship]
-fun_fact: "24/7 learning mindset ⚡"
+## 🧠 `/etc/about_me`
+
+```bash
+$ cat about_rethish.txt
+
+┌─[ Identity ]───────────────────────────────────────
+│ Name        : Rethish S
+│ Role        : Cybersecurity Enthusiast (Ethical Hacking Track)
+│ Focus       : Security Fundamentals · Network Analysis · Automation
+│ Learning    : Network Security, Python Automation, Linux Hardening
+│ Open To     : Internships · Junior Roles · Collabs · Mentorship
+│ Achievement : 🏆 3rd Place — CTF Hackathon
+│ Mindset     : 24/7 Curious. Always Building. Never Idle.
+└─────────────────────────────────────────────────────
+
+$ _
 ```
-
-- 🔐 Passionate about **cybersecurity**, **ethical hacking**, and understanding how systems can be protected before they're exploited
-- 🌱 Currently sharpening skills in **Security Fundamentals**, **Network Analysis**, and **Automation & Labs**
-- 🐍 Comfortable with **Linux/Unix**, **Python scripting**, and foundational **networking concepts**
-- 📝 Enjoy structured learning, documentation, and hands-on experimentation
-- 🤝 Open to **internships**, **junior opportunities**, **collaborations**, and **mentorship**
 
 <div align="center">
 
-| 🎯 Focus Areas | 📅 Journey Started | ⏱️ Mindset |
-|:---:|:---:|:---:|
-| 3+ | 2024 | 24/7 Learning |
+| 🎯 Focus Areas | 📅 Journey Started | 🏆 CTF Result | ⏱️ Mindset |
+|:---:|:---:|:---:|:---:|
+| 3+ | 2024 | 3rd Place 🥉 | 24/7 |
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 🎯 Areas of Expertise
+## 🎯 `/domains_of_focus`
 
 <div align="center">
 <table>
 <tr>
 <td width="33%" align="center">
 
-**🛡️ Security Fundamentals**
+### 🛡️
+**Security Fundamentals**
 <br/>
 Risk awareness, system protection, and security best practices for modern digital environments
 
 </td>
 <td width="33%" align="center">
 
-**🌐 Network Analysis**
+### 🌐
+**Network Analysis**
 <br/>
 How traffic flows, where weaknesses appear, and structured troubleshooting of network behavior
 
 </td>
 <td width="33%" align="center">
 
-**⚙️ Automation & Labs**
+### ⚙️
+**Automation & Labs**
 <br/>
 Python + Linux-based workflows for repeatable tasks, lab exercises, and problem solving
 
@@ -85,81 +88,82 @@ Python + Linux-based workflows for repeatable tasks, lab exercises, and problem 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ `/tech_stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,py,bash,git,github,kalilinux,wireshark,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,py,linux,bash,git,github,kalilinux,wireshark,vscode&theme=dark" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Information_Security-2EE6A6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Network_Analysis-2EE6A6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Penetration_Testing_Basics-2EE6A6?style=for-the-badge" />
-
+<img src="https://img.shields.io/badge/Information_Security-00FF9C?style=for-the-badge&labelColor=0F2027" />
+<img src="https://img.shields.io/badge/Network_Analysis-00FF9C?style=for-the-badge&labelColor=0F2027" />
+<img src="https://img.shields.io/badge/Penetration_Testing_Basics-00FF9C?style=for-the-badge&labelColor=0F2027" />
 <br/>
-
-<img src="https://img.shields.io/badge/Problem_Solving-333333?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Continuous_Learning-333333?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Documentation-333333?style=for-the-badge" />
+<img src="https://img.shields.io/badge/C_Programming-2EE6A6?style=for-the-badge&labelColor=0F2027" />
+<img src="https://img.shields.io/badge/Python_Scripting-2EE6A6?style=for-the-badge&labelColor=0F2027" />
+<img src="https://img.shields.io/badge/CTF_%2F_Capture_The_Flag-2EE6A6?style=for-the-badge&labelColor=0F2027" />
 
 </div>
 
+### Skill Confidence
+
+```text
+C Programming      ████████████████░░░░  80%
+Python              ███████████████░░░░░  75%
+Linux / Bash         ██████████████░░░░░░  70%
+Networking Basics    ████████████░░░░░░░░  60%
+Security Concepts    █████████████░░░░░░░  65%
+CTF / Problem Solving ██████████████░░░░░  72%
+```
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 🏆 Certifications
+## 🏆 `/achievements_and_certifications`
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/🥉_3rd_Place-CTF_Hackathon-FFD700?style=for-the-badge&labelColor=0F2027" />
 
 | Year | Certification | Issued By |
 |:---:|:---|:---|
-| 2024 | 🔰 Ethical Hacking Basics | Online Platform |
-| 2024 | 🐍 Python for Beginners | Coursera / Udemy |
-| 2025 | 🛡️ Cyber Security Fundamentals | College Workshop |
+| 2024 | 💻 C Programming Certification | Online Platform |
+| 2024 | 🐍 Python Programming Certification | Online Platform |
+| 2025 | 🥉 CTF Hackathon — 3rd Place | Hackathon Event |
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 🚀 Featured Projects
+## 📦 `/repositories`
+
+### 🌐 Public Repositories
 
 <div align="center">
-<table>
-<tr>
-<td width="33%">
 
-**📓 Security Lab Notes**
+<a href="https://github.com/rethiofficial1828-reka?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rethiofficial1828-reka&repo=Portfolio&theme=radical&hide_border=true" />
+</a>
 
-Organized documentation of security concepts, testing workflows, and lessons learned while practicing in lab environments.
+<br/>
+<sub>📌 Pin your other public repos by replacing <code>repo=Portfolio</code> above with each repo name (add one card per repo).</sub>
 
-`Documentation` `Cybersecurity`
+</div>
 
-</td>
-<td width="33%">
+### 🔒 Private Repositories
 
-**🐍 Python Security Utilities**
+<div align="center">
 
-Small scripting exercises focused on automation, repeatable checks, and building confidence with CLI tooling.
+<img src="https://img.shields.io/badge/Private_Repos-🔒_XX-333333?style=for-the-badge&labelColor=0F2027" />
 
-`Python` `Automation`
+<br/>
+<sub>Private repo contents stay private — this is just a count badge. Replace <code>XX</code> with your actual number, or leave it as-is if you'd rather not disclose a count.</sub>
 
-</td>
-<td width="33%">
-
-**🌐 Network Practice Environment**
-
-Ongoing exploration of protocols, traffic behavior, and network troubleshooting.
-
-`Networking` `Security Basics`
-
-</td>
-</tr>
-</table>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 📊 GitHub Stats & Activity
+## 📊 `/github_stats`
 
 <div align="center">
 
@@ -176,30 +180,34 @@ Ongoing exploration of protocols, traffic behavior, and network troubleshooting.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 🐍 Contribution Snake
+## 🐍 `/contribution_snake`
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/rethiofficial1828-reka/rethiofficial1828-reka/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%"/>
 
-<sub>⚠️ The snake animation needs a one-time GitHub Action setup in your profile repo — instructions below.</sub>
+<sub>⚠️ Needs a one-time GitHub Action in your profile repo — ask and I'll write the workflow file.</sub>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 🤝 Let's Connect
+## 🤝 `/connect`
 
 <div align="center">
 
-Open to opportunities, collaborations, and conversations about tech. If you're looking for someone motivated, curious, and serious about growing in cybersecurity — let's talk!
+```bash
+$ ping rethish --connect
+Open to internships, junior roles, collabs, and mentorship.
+Let's build something secure together.
+```
 
-<a href="mailto:rethiofficial1828@gmail.com"><img src="https://img.shields.io/badge/Get_In_Touch-2EE6A6?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+<a href="mailto:rethiofficial1828@gmail.com"><img src="https://img.shields.io/badge/Get_In_Touch-00FF9C?style=for-the-badge&logo=maildotru&logoColor=black" /></a>
 <a href="https://www.linkedin.com/in/rethish-s-25a377372"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/rethishsugu28"><img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:2EE6A6&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2EE6A6,100:0F2027&height=140&section=footer" width="100%"/>
 
-<div align="center"><i>© 2026 Rethish S — Designed for a strong first impression.</i></div>
+<div align="center"><sub>© 2026 Rethish S — root access granted to visitors who scroll this far. 🔓</sub></div>
