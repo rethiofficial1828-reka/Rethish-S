@@ -105,12 +105,12 @@ Python + Linux-based workflows for repeatable tasks, lab exercises, and problem 
 ### Skill Confidence
 
 ```text
-C Programming        ████████████████░░░░  80%
-Python                ███████████████░░░░░  75%
+C Programming          ████████████████░░░░  80%
+Python                 ███████████████░░░░░  75%
 Linux / Bash           ██████████████░░░░░░  70%
 Networking Basics      ████████████░░░░░░░░  60%
 Security Concepts      █████████████░░░░░░░  65%
-CTF / Problem Solving   ██████████████░░░░░  72%
+CTF / Problem Solving  ██████████████░░░░░░  72%
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
@@ -156,12 +156,12 @@ CTF / Problem Solving   ██████████████░░░░�
 <!--REPOS:START-->
 ### 🌐 Public Repositories
 
-| Repository | Language | Source |
-|:---|:---:|:---:|
-| **Portfolio** | HTML | [View Code](https://github.com/rethiofficial1828-reka/Portfolio) |
-| **sports-fest** | TypeScript | [View Code](https://github.com/rethiofficial1828-reka/sports-fest) |
-| **Final-Polish-Documentation-Demo** | JavaScript | [View Code](https://github.com/rethiofficial1828-reka/Final-Polish-Documentation-Demo) |
-| **Rethish-S** | — | [View Code](https://github.com/rethiofficial1828-reka/Rethish-S) |
+| Repository | Description | Language | Source |
+|:---|:---|:---:|:---:|
+| **Portfolio** | Personal portfolio site | HTML | [View Code](https://github.com/rethiofficial1828-reka/Portfolio) |
+| **sports-fest** | — | TypeScript | [View Code](https://github.com/rethiofficial1828-reka/sports-fest) |
+| **Final-Polish-Documentation-Demo** | — | JavaScript | [View Code](https://github.com/rethiofficial1828-reka/Final-Polish-Documentation-Demo) |
+| **Rethish-S** | — | — | [View Code](https://github.com/rethiofficial1828-reka/Rethish-S) |
 
 ### 🔒 Private Repositories
 
@@ -215,6 +215,10 @@ Open to internships, junior roles, collabs, and mentorship.
 Let's build something secure together.
 ```
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=8FA8C7&center=true&vCenter=true&width=650&height=40&lines=Reply+time%3A+usually+within+24h;DMs+open+%7C+Collabs+welcome;Let's+ship+something." alt="Connect typing SVG" />
+
+<br/><br/>
+
 <a href="mailto:rethiofficial1828@gmail.com"><img src="https://img.shields.io/badge/Get_In_Touch-4FD1FF?style=for-the-badge&logo=maildotru&logoColor=0A0E27" /></a>
 <a href="https://www.linkedin.com/in/rethish-s-25a377372"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/rethishsugu28"><img src="https://img.shields.io/badge/Follow_on_X-0A0E27?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -224,23 +228,3 @@ Let's build something secure together.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,100:0A0E27&height=140&section=footer" width="100%"/>
 
 <div align="center"><sub>© 2026 Rethish S — root access granted to visitors who scroll this far. 🔓</sub></div>
-
----
-
-## ⚙️ Setup — making the automation live
-
-This repo ships with everything wired up, but three one-time steps activate the "auto" part:
-
-1. **Create a Personal Access Token (PAT)** so the workflow can read your private repos (the default token GitHub gives Actions can only see the repo it runs in, not your whole account):
-   - GitHub → Settings → Developer settings → Personal access tokens → Fine-grained tokens → generate one with **read access to repository metadata** for all your repos (or a classic token with `repo` scope).
-   - In **this** repo: Settings → Secrets and variables → Actions → New repository secret → name it `PROFILE_README_PAT` → paste the token.
-
-2. **Push this repo as your GitHub profile README** — it must live in a repo named exactly `rethiofficial1828-reka/rethiofficial1828-reka` (a repo with the same name as your username) for GitHub to show it on your profile page.
-
-3. **Let the workflow run once** — go to the Actions tab → "Auto-update README" → Run workflow. From then on it re-runs daily and on every push to `certificates.json`, rewriting the repos/certs/hackathons tables automatically.
-
-4. **(Optional) Snake animation** — add the [platane/snk](https://github.com/Platane/snk) action to get the animated contribution snake shown above; ask if you want that workflow file added too.
-
-**To update your data going forward:** just edit `certificates.json` (certificates or hackathons) and commit — no need to touch `README.md` by hand. Repo listings update themselves automatically since they're pulled live from the GitHub API.
-
-**On the "3D / smooth scroll" request:** GitHub strips all CSS and JavaScript from rendered READMEs, so true 3D transforms and scroll animations can't run there — that's a limitation of GitHub's Markdown renderer, not of what I can build. Everything above is the closest achievable equivalent within those constraints (animated SVG banners, typing effects, live data cards). If you want actual 3D/scroll-animated visuals, that belongs on your portfolio *website* (which is plain HTML/CSS/JS) — happy to build that version instead if you want it.
