@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:14213D,100:0F4C81&height=260&section=header&text=RETHISH%20S&fontSize=68&fontColor=4FD1FF&fontAlignY=35&animation=fadeIn&desc=%3E%20whoami%20::%20Cybersecurity%20Learner%20%7C%20Ethical%20Hacking%20Track%20%7C%20Blue-Team%20in%20Training&descAlignY=58&descSize=16&descColor=CBD5E1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0A0E27,50:14213D,100:0F4C81&height=260&section=header&text=RETHISH%20S&fontSize=68&fontColor=4FD1FF&fontAlignY=35&animation=fadeIn&desc=%3E%20whoami%20::%20Cybersecurity%20Learner%20%7C%20Ethical%20Hacking%20Track%20%7C%20Blue-Team%20in%20Training&descAlignY=58&descSize=16&descColor=CBD5E1" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=4FD1FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=root%40rethish%3A~%24+scanning_systems...;%5B%2B%5D+Learning+Network+Security;%5B%2B%5D+Automating+with+Python;%5B%2B%5D+2x+Hackathon+Finisher+%F0%9F%8F%86;%5B%2B%5D+Status%3A+Always+Online" alt="Typing SVG" />
 
@@ -228,3 +228,23 @@ Let's build something secure together.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,100:0A0E27&height=140&section=footer" width="100%"/>
 
 <div align="center"><sub>© 2026 Rethish S — root access granted to visitors who scroll this far. 🔓</sub></div>
+
+---
+
+## ⚙️ Setup — making the automation live
+
+This repo ships with everything wired up, but three one-time steps activate the "auto" part:
+
+1. **Create a Personal Access Token (PAT)** so the workflow can read your private repos (the default token GitHub gives Actions can only see the repo it runs in, not your whole account):
+   - GitHub → Settings → Developer settings → Personal access tokens → Fine-grained tokens → generate one with **read access to repository metadata** for all your repos (or a classic token with `repo` scope).
+   - In **this** repo: Settings → Secrets and variables → Actions → New repository secret → name it `PROFILE_README_PAT` → paste the token.
+
+2. **Push this repo as your GitHub profile README** — it must live in a repo named exactly `rethiofficial1828-reka/rethiofficial1828-reka` (a repo with the same name as your username) for GitHub to show it on your profile page.
+
+3. **Let the workflow run once** — go to the Actions tab → "Auto-update README" → Run workflow. From then on it re-runs daily and on every push to `certificates.json`, rewriting the repos/certs/hackathons tables automatically.
+
+4. **(Optional) Snake animation** — add the [platane/snk](https://github.com/Platane/snk) action to get the animated contribution snake shown above; ask if you want that workflow file added too.
+
+**To update your data going forward:** just edit `certificates.json` (certificates or hackathons) and commit — no need to touch `README.md` by hand. Repo listings update themselves automatically since they're pulled live from the GitHub API.
+
+**On the "3D / smooth scroll" request:** GitHub strips all CSS and JavaScript from rendered READMEs, so true 3D transforms and scroll animations can't run there — that's a limitation of GitHub's Markdown renderer, not of what I can build. Everything above is the closest achievable equivalent within those constraints (animated SVG banners, typing effects, live data cards). If you want actual 3D/scroll-animated visuals, that belongs on your portfolio *website* (which is plain HTML/CSS/JS) — happy to build that version instead if you want it.
