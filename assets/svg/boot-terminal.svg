@@ -1,0 +1,56 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="panelGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1120"/>
+      <stop offset="100%" stop-color="#050816"/>
+    </linearGradient>
+    <linearGradient id="scanGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00E5FF" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="panelClip">
+      <rect x="10" y="10" width="880" height="240" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <rect x="10" y="10" width="880" height="240" rx="16" fill="url(#panelGrad)" stroke="#00E5FF" stroke-opacity="0.35" stroke-width="1.5"/>
+
+  <circle cx="34" cy="34" r="6" fill="#EF4444"/>
+  <circle cx="54" cy="34" r="6" fill="#F59E0B"/>
+  <circle cx="74" cy="34" r="6" fill="#00FF9D"/>
+  <text x="450" y="39" text-anchor="middle" fill="#94A3B8" font-family="Fira Code, monospace" font-size="13">rethish-os :: boot_sequence</text>
+  <line x1="10" y1="52" x2="890" y2="52" stroke="#1F2937" stroke-width="1"/>
+
+  <g clip-path="url(#panelClip)">
+    <rect x="0" y="52" width="900" height="30" fill="url(#scanGrad)">
+      <animate attributeName="y" values="52;220;52" dur="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <g font-family="Fira Code, monospace" font-size="16" fill="#00E5FF">
+    <text x="34" y="85" opacity="0">
+      &gt; initializing rethish_os v3.2...
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.02;0.12;1" dur="6s" begin="0s" fill="freeze"/>
+    </text>
+    <text x="34" y="115" fill="#CBD5E1" opacity="0">
+      &gt; loading kernel modules [security, network, ai_core] ... OK
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.18;0.28;1" dur="6s" begin="0s" fill="freeze"/>
+    </text>
+    <text x="34" y="145" fill="#CBD5E1" opacity="0">
+      &gt; mounting identity: RETHISH_S ... verified
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.34;0.44;1" dur="6s" begin="0s" fill="freeze"/>
+    </text>
+    <text x="34" y="175" fill="#00FF9D" opacity="0">
+      &gt; all systems nominal. welcome back, operator.
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.5;0.6;1" dur="6s" begin="0s" fill="freeze"/>
+    </text>
+    <text x="34" y="210" fill="#F8FAFC" opacity="0">
+      &gt; <tspan fill="#8B5CF6">scroll</tspan> to continue session_
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.66;0.76;1" dur="6s" begin="0s" fill="freeze"/>
+    </text>
+    <rect x="238" y="196" width="9" height="16" fill="#F8FAFC">
+      <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
