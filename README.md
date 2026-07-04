@@ -1,25 +1,18 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0A0E27,50:14213D,100:0F4C81&height=260&section=header&text=RETHISH%20S&fontSize=68&fontColor=FFC857&fontAlignY=35&animation=fadeIn&desc=%3E%20whoami%20::%20Cybersecurity%20Learner%20%7C%20Ethical%20Hacking%20Track%20%7C%20Blue-Team%20in%20Training&descAlignY=58&descSize=16&descColor=CBD5E1" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=FFC857&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=root%40rethish%3A~%24+scanning_systems...;%5B%2B%5D+Learning+Network+Security;%5B%2B%5D+Automating+with+Python;%5B%2B%5D+2x+Hackathon+Finisher+%F0%9F%8F%86;%5B%2B%5D+Status%3A+Always+Online" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/rethish-s-25a377372" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/rethishsugu28" target="_blank"><img src="https://img.shields.io/badge/X-0A0E27?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="mailto:rethiofficial1828@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://rethiofficial1828-reka.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FFC857?style=for-the-badge&logo=googlechrome&logoColor=0A0E27" /></a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=rethiofficial1828-reka&color=FFC857&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/rethiofficial1828-reka?style=for-the-badge&color=0F4C81&labelColor=0A0E27)
-![Status](https://img.shields.io/badge/STATUS-ACTIVELY%20LEARNING-FFC857?style=for-the-badge&labelColor=0A0E27)
-
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:050816,50:0B1120,100:111827&height=260&section=header&text=RETHISH%20S&fontSize=68&fontColor=00E5FF&fontAlignY=35&animation=fadeIn&desc=%3E%20whoami%20::%20Cybersecurity%20Learner%20%7C%20Ethical%20Hacking%20Track%20%7C%20Blue-Team%20in%20Training&descAlignY=58&descSize=16&descColor=CBD5E1" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=root%40rethish%3A~%24+scanning_systems...;%5B%2B%5D+Learning+Network+Security;%5B%2B%5D+Automating+with+Python;%5B%2B%5D+2x+Hackathon+Finisher+%F0%9F%8F%86;%5B%2B%5D+Status%3A+Always+Online" alt="Typing SVG" />
+  <br/>
+  <a href="https://www.linkedin.com/in/rethish-s-25a377372" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/rethishsugu28" target="_blank"><img src="https://img.shields.io/badge/X-050816?style=for-the-badge&logo=x&logoColor=00E5FF" /></a>
+  <a href="mailto:rethiofficial1828@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://rethiofficial1828-reka.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=050816" /></a>
+  <br/><br/>
+  ![Profile Views](https://komarev.com/ghpvc/?username=rethiofficial1828-reka&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS)
+  ![Followers](https://img.shields.io/github/followers/rethiofficial1828-reka?style=for-the-badge&color=8B5CF6&labelColor=050816)
+  ![Status](https://img.shields.io/badge/STATUS-ACTIVELY%20LEARNING-00FF9D?style=for-the-badge&labelColor=050816)
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:14213D,100:0F4C81&height=6&width=1400" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:8B5CF6,100:EC4899&height=4&width=1400" width="100%">
 
 ## 🧠 `/etc/about_me`
 
@@ -47,7 +40,7 @@ $ _
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:14213D,100:0F4C81&height=6&width=1400" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:8B5CF6,100:EC4899&height=4&width=1400" width="100%">
 
 ## 🎯 `/domains_of_focus`
 
@@ -56,24 +49,21 @@ $ _
 <tr>
 <td width="33%" align="center">
 
-### 🛡️
-**Security Fundamentals**
+### 🛡️ **Security Fundamentals**
 <br/>
 Risk awareness, system protection, and security best practices for modern digital environments
 
 </td>
 <td width="33%" align="center">
 
-### 🌐
-**Network Analysis**
+### 🌐 **Network Analysis**
 <br/>
 How traffic flows, where weaknesses appear, and structured troubleshooting of network behavior
 
 </td>
 <td width="33%" align="center">
 
-### ⚙️
-**Automation & Labs**
+### ⚙️ **Automation & Labs**
 <br/>
 Python + Linux-based workflows for repeatable tasks, lab exercises, and problem solving
 
@@ -82,7 +72,7 @@ Python + Linux-based workflows for repeatable tasks, lab exercises, and problem 
 </table>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:14213D,100:0F4C81&height=6&width=1400" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:8B5CF6,100:EC4899&height=4&width=1400" width="100%">
 
 ## 🛠️ `/tech_stack`
 
@@ -92,13 +82,13 @@ Python + Linux-based workflows for repeatable tasks, lab exercises, and problem 
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Information_Security-FFC857?style=for-the-badge&labelColor=0A0E27" />
-<img src="https://img.shields.io/badge/Network_Analysis-FFC857?style=for-the-badge&labelColor=0A0E27" />
-<img src="https://img.shields.io/badge/Penetration_Testing_Basics-FFC857?style=for-the-badge&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/Information_Security-00E5FF?style=for-the-badge&labelColor=050816" />
+<img src="https://img.shields.io/badge/Network_Analysis-00E5FF?style=for-the-badge&labelColor=050816" />
+<img src="https://img.shields.io/badge/Penetration_Testing_Basics-00E5FF?style=for-the-badge&labelColor=050816" />
 <br/>
-<img src="https://img.shields.io/badge/C_Programming-0F4C81?style=for-the-badge&labelColor=0A0E27" />
-<img src="https://img.shields.io/badge/Python_Scripting-0F4C81?style=for-the-badge&labelColor=0A0E27" />
-<img src="https://img.shields.io/badge/CTF_%2F_Capture_The_Flag-0F4C81?style=for-the-badge&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/C_Programming-8B5CF6?style=for-the-badge&labelColor=050816" />
+<img src="https://img.shields.io/badge/Python_Scripting-8B5CF6?style=for-the-badge&labelColor=050816" />
+<img src="https://img.shields.io/badge/CTF_%2F_Capture_The_Flag-8B5CF6?style=for-the-badge&labelColor=050816" />
 
 </div>
 
@@ -113,13 +103,13 @@ Security Concepts      █████████████░░░░░░
 CTF / Problem Solving  ██████████████░░░░░░  72%
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:14213D,100:0F4C81&height=6&width=1400" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:8B5CF6,100:EC4899&height=4&width=1400" width="100%">
 
 ## 🏆 `/achievements`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🏆_2x_Hackathon_Finisher-FFC857?style=for-the-badge&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/🏆_2x_Hackathon_Finisher-00E5FF?style=for-the-badge&labelColor=050816" />
 
 <br/><br/>
 
@@ -149,7 +139,7 @@ CTF / Problem Solving  ██████████████░░░░░
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:14213D,100:0F4C81&height=6&width=1400" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:8B5CF6,100:EC4899&height=4&width=1400" width="100%">
 
 ## 📦 `/repositories`
 
@@ -172,7 +162,7 @@ CTF / Problem Solving  ██████████████░░░░░
 <sub>🔄 Snapshot pulled from your public GitHub page on 2026-07-02. Once the Action (below) is activated, this section rewrites itself automatically and stays current — no manual edits needed.</sub>
 <!--REPOS:END-->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:14213D,100:0F4C81&height=6&width=1400" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:8B5CF6,100:EC4899&height=4&width=1400" width="100%">
 
 ## 📊 `/github_stats`
 
@@ -191,7 +181,7 @@ CTF / Problem Solving  ██████████████░░░░░
 
 <sub align="center">These cards pull live data straight from the GitHub API on every page load — no manual updates needed, ever.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:14213D,100:0F4C81&height=6&width=1400" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:8B5CF6,100:EC4899&height=4&width=1400" width="100%">
 
 ## 🐍 `/contribution_snake`
 
@@ -201,7 +191,7 @@ CTF / Problem Solving  ██████████████░░░░░
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:14213D,100:0F4C81&height=6&width=1400" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:8B5CF6,100:EC4899&height=4&width=1400" width="100%">
 
 ## 🤝 `/connect`
 
@@ -213,16 +203,16 @@ Open to internships, junior roles, collabs, and mentorship.
 Let's build something secure together.
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=8FA8C7&center=true&vCenter=true&width=650&height=40&lines=Reply+time%3A+usually+within+24h;DMs+open+%7C+Collabs+welcome;Let's+ship+something." alt="Connect typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=94A3B8&center=true&vCenter=true&width=650&height=40&lines=Reply+time%3A+usually+within+24h;DMs+open+%7C+Collabs+welcome;Let's+ship+something." alt="Connect typing SVG" />
 
 <br/><br/>
 
-<a href="mailto:rethiofficial1828@gmail.com"><img src="https://img.shields.io/badge/Get_In_Touch-FFC857?style=for-the-badge&logo=maildotru&logoColor=0A0E27" /></a>
+<a href="mailto:rethiofficial1828@gmail.com"><img src="https://img.shields.io/badge/Get_In_Touch-00E5FF?style=for-the-badge&logo=maildotru&logoColor=050816" /></a>
 <a href="https://www.linkedin.com/in/rethish-s-25a377372"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/rethishsugu28"><img src="https://img.shields.io/badge/Follow_on_X-0A0E27?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://x.com/rethishsugu28"><img src="https://img.shields.io/badge/Follow_on_X-050816?style=for-the-badge&logo=x&logoColor=00E5FF" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F4C81,100:0A0E27&height=6&width=1400" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:050816&height=4&width=1400" width="100%"/>
 
 <div align="center"><sub>© 2026 Rethish S — root access granted to visitors who scroll this far. 🔓</sub></div>
